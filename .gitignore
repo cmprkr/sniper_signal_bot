@@ -1,0 +1,13 @@
+# env & secrets
+.env
+state.json
+
+# python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# logs
+*.log
+pm2.log
